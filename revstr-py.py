@@ -1,5 +1,5 @@
 def main():
- a= "string"
+ a=input('enter the string :')
  print(a[::-1])
- 
+
 main()
