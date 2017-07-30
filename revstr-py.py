@@ -1,3 +1,5 @@
-a=10
-b=10
-print (a+b)
+def main():
+ a= "string"
+ print(a[::-1])
+ 
+main()
